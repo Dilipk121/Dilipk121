@@ -1,21 +1,16 @@
-- 👋 Hi, I’m [Dilip Kumar](https://www.linkedin.com/in/dilip-k-23535420/),a DevOps Engineer with two+ years of experience in designing, implementing, and managing medium/complex infrastructures.
-- Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management.
-- And along with above I also have seven+ years of rich experience in Software Development & Android App Development
-- Served as a team lead for Last three+ years
-- I mostly Like to work with Cloud based Technologies.
+- 👋 Hi, I’m [Dilip Kumar](https://www.linkedin.com/in/dilip-kumar-23535420/),a Android Developer(Kotlin) Engineer with Four+ years (Over All 10 Years) of experience with Kotlin Language in designing, implementing, and managing medium/complex Android Application Development And Hosted on Google Play Store.
+- Proficient in Kotlin Language to Develope and Manage App's Development.
+- Served as a team lead for Last three+ years.
+- I mostly Like to work with Kotlin with Latest Features.
+- Learning JetPack Compose for App's Developement
 
-### DevOps
+### Kotlin Android Developer
 - Git & Github
-- Python
-- YAML
-- Jenkins (CI/CD)
-- Docker
-- Kubernetes
-- Helm Chart
-- Ansible
-- Terraform
-- Nagios
-- AWS Cloud
+- Kotlin
+- Android Studio
+- Java
+- Sqlite
+- Basic Understanding of work with Deveops Tool's
   
 
 

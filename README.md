@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Dilip Kumar](https://www.linkedin.com/in/dilip-kumar-23535420/),a Android Developer(Kotlin) Engineer with Four+ years (Over All 10 Years) of experience with Kotlin Language in designing, implementing, and managing medium/complex Android Application Development And Hosted on Google Play Store.
+- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21),a Android Developer(Kotlin) Engineer with Four+ years (Over All 10 Years) of experience with Kotlin Language in designing, implementing, and managing medium/complex Android Application Development And Hosted on Google Play Store.
 - Proficient in Kotlin Language to Develope and Manage App's Development.
 - Served as a team lead for Last three+ years.
 - I mostly Like to work with Kotlin with Latest Features.

@@ -16,6 +16,6 @@
 
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/dilip-k-23535420/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](www.linkedin.com/in/dilipkumar21) 👨🏻‍💻
  - Shoot Me an [Email](mailto:dilip.web7@gmail.com) 💌
 

@@ -13,7 +13,7 @@
 - Sqlite
 - ROOM DB
 - Retrofit API Integration
-- MVC | MVVM | MVP | Clean Architecture Pattern
+- MVC | MVVM | Clean Architecture Pattern
 - Basic Understanding of work with Deveops Tool's like CI/CD
   
 

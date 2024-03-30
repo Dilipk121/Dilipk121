@@ -9,12 +9,9 @@
 - Git & Github
 - Kotlin
 - Android Studio
-- Java
-- Sqlite
 - ROOM DB
 - Retrofit API Integration
 - MVC | MVVM | Clean Architecture Pattern
-- Basic Understanding of work with Deveops Tool's like CI/CD
   
 
 

@@ -1,18 +1,15 @@
-- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently 2 years of work experience in Business Analyst/Data Analyst Domain, and Previous 10 plus years of experience in Android Development (IT Sector). 
+- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently working as experience Application Security Analyst in Security Domain, and Previous 10 plus years of experience as Reverse Engineering, Malware Analyst and Mobile Developer. 
 
-- Proficient in SQL (SQL Server, MySQL).
-- Proficient in Python (Pandas, Matplotlib, NumPy, Seaborn).
-- Proficient in Excel (VLOOKUP, XLOOKUP, Conditional Formation, Pivot Tables).
+- Proficient in Application Security Analyst
+- Expertise in Mobile App Security, SAST, DAST, API Security Testing,
+- Threat Mitigation, Threat Modeling |
+- Skilled in Tools like MobSF, JADX, Burp Suite, SonarQube, Postman, Nessus
 - Microsoft Power BI .
 - Belive in Learning and Sharing Knowledge.
 
-### A Data Analyst
+### A Application Security Analyst
 
-- Data Visualization & Reporting: Proficient in creating intuitive and visually compelling dashboards and reports using tools like Tableau, Power BI, and Excel to communicate insights effectively to both technical and non-technical stakeholders.
-- Statistical Analysis & Modeling: Strong background in statistical analysis, hypothesis testing, and predictive modeling using R, Python, and SQL to identify trends, correlations, and patterns that drive business decisions.
-- Data Cleaning & Transformation: Expertise in data preprocessing, including data wrangling, normalization, and cleansing, to ensure accuracy and reliability of datasets for analysis.
-- Database Management & SQL: Skilled in writing complex SQL queries for data extraction, manipulation, and analysis from large databases, ensuring optimized performance and data integrity.
-- Advanced Excel: Advanced proficiency in Excel, including pivot tables, VLOOKUP, macros, and complex formula construction, to perform in-depth data analysis and automate repetitive tasks.
+"Application Security Analyst | Expertise in Web & Mobile Security | SAST, DAST, IAST, RASP | OWASP, NIST, CIS | Penetration Testing | DevSecOps | Tools: Burp Suite, ZAP, SonarQube, Fortify, Checkmarx, AppScan, MobSF, Frida"
 
 ### 📫 How to reach me?
 

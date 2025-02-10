@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently working as experience Application Security Analyst in Security Domain, and Previous 10 plus years of experience as Reverse Engineering, Malware Analyst and Mobile Developer. 
+- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently working as <b>Application Security Analyst</b> in Security Domain, and Previous 10 plus years of experience as Reverse Engineering, Malware Analyst and Mobile Developer. 
 
 - Proficient in Application Security Analyst
 - Expertise in Mobile App Security, SAST, DAST, API Security Testing,

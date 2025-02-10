@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently working as <b>Application Security Analyst</b> in Security Domain, and Previous 10 plus years of experience as Reverse Engineering, Malware Analyst and Mobile Developer. 
+- 👋 Hi, I’m [Dilip Kumar](www.linkedin.com/in/dilipkumar21), Currently working as <b>'Application Security Analyst'</b> in Security Domain, and Previous 10 plus years of experience as Reverse Engineering, Malware Analyst and Mobile Developer. 
 
 - Proficient in Application Security Analyst
 - Expertise in Mobile App Security, SAST, DAST, API Security Testing,
@@ -9,7 +9,25 @@
 
 ### A Application Security Analyst
 
-"Application Security Analyst | Expertise in Web & Mobile Security | SAST, DAST, IAST, RASP | OWASP, NIST, CIS | Penetration Testing | DevSecOps | Tools: Burp Suite, ZAP, SonarQube, Fortify, Checkmarx, AppScan, MobSF, Frida"
+"Application Security Analyst | Expertise in Web & Mobile Security | SAST, DAST, IAST, RASP | OWASP, NIST, CIS | Penetration Testing | DevSecOps | Tools: Burp Suite, ZAP, SonarQube, Fortify, Checkmarx, AppScan, MobSF, Frida".
+- WireShark
+- Burp Suite
+- Kali Linux
+- Penetration Testing
+- Application Security
+- NMAP
+- SQL MAP
+- Mobile Security
+- Mob-SF
+- JADX
+- APK STUDIO
+- APK TOOL
+- FRIDA
+- XCode
+- Android Studio
+- Nessus
+- Metasploit
+- Sonarqube
 
 ### 📫 How to reach me?
 
